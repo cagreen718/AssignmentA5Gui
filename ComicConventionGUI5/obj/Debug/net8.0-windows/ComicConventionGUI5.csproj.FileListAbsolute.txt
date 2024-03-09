@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\ComicConventionGUI5\bin\Debug\net8.0-windows\ComicConventionGUI5.exe
+C:\Users\user\source\repos\ComicConventionGUI5\bin\Debug\net8.0-windows\ComicConventionGUI5.deps.json
+C:\Users\user\source\repos\ComicConventionGUI5\bin\Debug\net8.0-windows\ComicConventionGUI5.runtimeconfig.json
+C:\Users\user\source\repos\ComicConventionGUI5\bin\Debug\net8.0-windows\ComicConventionGUI5.dll
+C:\Users\user\source\repos\ComicConventionGUI5\bin\Debug\net8.0-windows\ComicConventionGUI5.pdb
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.Form1.resources
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.Properties.Resources.resources
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.AssemblyInfo.cs
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.dll
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\refint\ComicConventionGUI5.dll
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.pdb
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ComicConventionGUI5.genruntimeconfig.cache
+C:\Users\user\source\repos\ComicConventionGUI5\obj\Debug\net8.0-windows\ref\ComicConventionGUI5.dll
